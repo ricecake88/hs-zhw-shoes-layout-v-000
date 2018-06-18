@@ -25,7 +25,7 @@
 /* Posititoning Classes */
 .featured-col-1 {
   float:left;
-  width:70%;
+  width:600px;
   background:red;
   padding: -20px;
 }
