@@ -30,17 +30,20 @@
 }
 
 .featured-col-1 {
+  float:left;
   width:700px;
   background:blue;
+  margin-right:10px;
   padding: 0px;
-  display: table-cell;
 }
 
 .featured-col-2 {
+  float:left;
   background:gray;
   padding:0px;
+  margin-left: 10px;
+  margin-right: 0px;
   width: 25%;
-  display: table-cell;  
 }
 
 #deals-col-1 {
