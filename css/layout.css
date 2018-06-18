@@ -26,11 +26,13 @@
 .col-1 {
   float: left;
   width: 33%;
+  background:gray;
 }
 
 .col-2 {
   float:left;
   width: 65%;
+  background:pink;
 }
 
 .col-3 {
