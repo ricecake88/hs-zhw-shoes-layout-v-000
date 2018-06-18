@@ -32,6 +32,7 @@
 .featured-col-2 {
   float:left;
   background:gray;
+  margin-left: 2px;
 }
 
 #deals-col-1 {
