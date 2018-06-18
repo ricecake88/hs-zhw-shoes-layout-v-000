@@ -27,13 +27,14 @@
   float:left;
   width:600px;
   background:red;
-  padding: -20px;
+  padding: 0px;
 }
 
 .featured-col-2 {
   float:left;
   width: 300px;
   background:gray;
+  padding:0px;
 }
 
 #deals-col-1 {
