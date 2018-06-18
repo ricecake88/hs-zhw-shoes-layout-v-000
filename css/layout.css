@@ -24,8 +24,8 @@
 
 /* Posititoning Classes */
 #featured {
-  height:100%;
-  min-height:100%;
+  display: table;
+  width: 100%;
   background: red;
 }
 
