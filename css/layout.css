@@ -50,7 +50,7 @@
   float: left;
   width:310px;
   background:gray;
-  margin: 10px 10px 10px 0px;
+  margin: 10px 5px 10px 0px;
   clear:both;
 }
 
@@ -58,7 +58,7 @@
   background:green;
   float:left;
   width: 310px;
-  margin: 10px 0px 10px 0px;  
+  margin: 10px 0px 10px 5px;  
 }
 
 .cols-3 {
