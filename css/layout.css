@@ -47,21 +47,21 @@
   overflow: auto;  
 }
 
-.deals-col-1 {
+.cols-1 {
   float: left;
   width:31%;
   background:gray;
   margin: 2% 2% 2% 0%;
 }
 
-.deals-col-2 {
+.cols-2 {
   background:green;
   float:left;
   width: 31%;
   margin: 2% 0% 2% 0%;  
 }
 
-.deals-col-3 {
+.cols-3 {
   float:left;
   background:blue;
   width: 31%;
