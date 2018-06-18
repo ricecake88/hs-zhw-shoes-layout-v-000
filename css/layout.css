@@ -49,13 +49,11 @@
 .cols-1 {
   float: left;
   width:310px;
-  background:gray;
   margin: 10px 5px 10px 0px;
   clear:both;
 }
 
 .cols-2 {
-  background:green;
   float:left;
   width: 315px;
   margin: 10px 0px 10px 5px;  
@@ -63,7 +61,6 @@
 
 .cols-3 {
   float:left;
-  background:blue;
   width: 315px;
   margin: 10px 0px 10px 10px;
   overflow: auto;
