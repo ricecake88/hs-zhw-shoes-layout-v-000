@@ -26,7 +26,6 @@
 #featured {
   display: block;
   overflow:auto;
-  clear:both;
 }
 
 .featured-col-1 {
