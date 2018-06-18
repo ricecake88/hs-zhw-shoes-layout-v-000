@@ -23,7 +23,9 @@
 }
 
 /* Posititoning Classes */
-
+.featured-col-1 {
+  float:left;
+}
 
 #deals-col-1 {
   float: left;
