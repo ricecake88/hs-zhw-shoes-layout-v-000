@@ -23,6 +23,10 @@
 }
 
 /* Posititoning Classes */
+#featured {
+  height:100%;
+}
+
 .featured-col-1 {
   float:left;
   width:75%;
