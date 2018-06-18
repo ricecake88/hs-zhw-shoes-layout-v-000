@@ -26,10 +26,12 @@
 .featured-col-1 {
   float:left;
   width:70%;
+  padding: 2%;
 }
 
 .featured-col-2 {
-  float:left;  
+  float:left;
+  padding: 2%;
 }
 
 #deals-col-1 {
