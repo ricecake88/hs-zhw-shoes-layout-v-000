@@ -55,6 +55,7 @@
 }
 
 #deals-col-2 {
+  float: left;
   background:green;
   float:left;
   width: 25%;
