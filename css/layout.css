@@ -28,7 +28,7 @@
   width:600px;
   background:red;
   padding: 0px;
-  border:10px clear;
+  margin: 10px;
 }
 
 .featured-col-2 {
@@ -36,7 +36,7 @@
   width: 300px;
   background:gray;
   padding:0px;
-  border:10px clear;
+  margin: 10px;
 }
 
 #deals-col-1 {
