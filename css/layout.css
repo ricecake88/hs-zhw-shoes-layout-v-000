@@ -25,6 +25,7 @@
 /* Posititoning Classes */
 #featured {
   display: block;
+  overflow:auto;
   width: 100%;
   background: red;
 }
