@@ -23,19 +23,21 @@
 }
 
 /* Posititoning Classes */
-.col-1 {
+
+
+#deals-col-1 {
   float: left;
   width: 30%;
   background:gray;
 }
 
-.col-2 {
-  float:left;
+#deals-col-2 {
+  clear:left;
   width: 30%;
   background:pink;
 }
 
-.col-3 {
+#deals-col-3 {
   width: 30%;
   background:blue;
 }
