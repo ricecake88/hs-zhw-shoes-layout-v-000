@@ -25,18 +25,18 @@
 /* Posititoning Classes */
 .col-1 {
   float: left;
-  width: 33%;
+  width: 32%;
   background:gray;
 }
 
 .col-2 {
   float:left;
-  width: 33%;
+  width: 32%;
   background:pink;
 }
 
 .col-3 {
-  width: 33%;
+  width: 32%;
   background:blue;
 }
 
