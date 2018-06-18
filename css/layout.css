@@ -28,7 +28,7 @@
   width:600px;
   background:red;
   padding: 0px;
-  margin: 10px;
+  border:10px none;
 }
 
 .featured-col-2 {
