@@ -50,7 +50,7 @@
   float: left;
   width:310px;
   background:gray;
-  margin: 10px 10px 10px 0%;
+  margin: 10px 10px 10px 0px;
   clear:both;
 }
 
@@ -58,14 +58,14 @@
   background:green;
   float:left;
   width: 310px;
-  margin: 10px 0% 10px 10px;  
+  margin: 10px 0px 10px 10px;  
 }
 
 .cols-3 {
   float:left;
   background:blue;
   width: 310px;
-  margin: 10px 0% 10px 10px;
+  margin: 10px 0px 10px 10px;
   overflow: auto;
 }
 
