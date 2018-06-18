@@ -27,11 +27,13 @@
   float:left;
   width:70%;
   margin: 2%;
+  background:red;
 }
 
 .featured-col-2 {
   float:left;
   margin: 2%;
+  background:gray;
 }
 
 #deals-col-1 {
