@@ -31,14 +31,14 @@
 .featured-col-1 {
   float:left;
   width:680px;
-  margin-right:10px;
+  margin-right:5px;
   padding: 0px;
 }
 
 .featured-col-2 {
   float:left;
   padding:0px;
-  margin-left: 10px;
+  margin-left: 5px;
   margin-right: 0px;
   width: 240px;
 }
