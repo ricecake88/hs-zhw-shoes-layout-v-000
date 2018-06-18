@@ -40,7 +40,7 @@
 }
 
 #deals-col-1 {
-  float: left;
+  clear:both;
   width: 30%;
   background:gray;
 }
