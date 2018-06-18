@@ -24,9 +24,10 @@
 
 /* Posititoning Classes */
 #featured {
-  display: table;
+  display: block;
   width: 100%;
   background: red;
+  overflow: auto;
 }
 
 .featured-col-1 {
