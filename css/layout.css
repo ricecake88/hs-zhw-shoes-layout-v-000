@@ -25,7 +25,6 @@
 /* Posititoning Classes */
 #featured {
   display: block;
-  height: 100%;
   width: 100%;
   background: red;
 }
@@ -45,8 +44,6 @@
   margin-left: 10px;
   margin-right: 0px;
   width: 25%;
-  display: block;
-  overflow: auto;  
 }
 
 .cols-1 {
