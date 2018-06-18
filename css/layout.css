@@ -49,7 +49,7 @@
 
 #deals-col-1 {
   float: left;
-  width:30%;
+  width:32%;
   background:gray;
   margin: 2% 2% 2% 0px;
 }
@@ -57,15 +57,15 @@
 #deals-col-2 {
   background:green;
   float:left;
-  width: 30%;
+  width: 32%;
   margin: 2% 2% 2% 0px;  
 }
 
 #deals-col-3 {
   float:left;
   background:blue;
-  width: 30%;
-  margin: 2% 2% 2% 0px;  
+  width: 32%;
+  margin: 2% 2% 2% 0px;
 }
 
 
