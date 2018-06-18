@@ -48,7 +48,7 @@
 
 .cols-1 {
   float: left;
-  width:33%;
+  width:310px;
   background:gray;
   margin: 2% 2% 2% 0%;
   clear:both;
@@ -57,14 +57,14 @@
 .cols-2 {
   background:green;
   float:left;
-  width: 33%;
+  width: 310px;
   margin: 2% 0% 2% 0%;  
 }
 
 .cols-3 {
   float:left;
   background:blue;
-  width: 33%;
+  width: 310px;
   margin: 2% 0% 2% 2%;
   overflow: auto;
 }
