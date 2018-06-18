@@ -66,6 +66,7 @@
   background:blue;
   width: 31%;
   margin: 2% 0% 2% 2%;
+  overflow: auto;
 }
 
 
