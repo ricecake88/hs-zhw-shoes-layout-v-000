@@ -45,6 +45,7 @@
   margin-left: 10px;
   margin-right: 0px;
   width: 25%;
+  display: table-cell;  
 }
 
 #deals-col-1 {
